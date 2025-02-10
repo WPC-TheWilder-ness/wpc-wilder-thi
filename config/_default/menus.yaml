@@ -1,9 +1,9 @@
 main:
-  - name: COMMS
-    url: 'https://conversationcommunicationprotocols.wilder.wp.computer'
+  - name: HOME
+    url: 'https://apx.wilder.wp.computer'
     weight: 1
-  - name: THI
-    url: 'https://thehumanimperative.wilder.wp.computer'
+  - name: WAR
+    url: 'https://disclaimerwarning.wilder.wp.computer'
     weight: 2
   - name: CPB
     url: 'https://corepeacebias.wilder.wp.computer'
@@ -17,6 +17,15 @@ main:
   - name: CGPS 
     url: 'https://computationalglobalpeacesystem.wilder.wp.computer'
     weight: 6
-  - name: APEX (home) 
-    url: 'https://apx.wilder.wp.computer'
+  - name: TMFP 
+    url: 'https://timemachineforpeace.wilder.wp.computer'
     weight: 7
+  - name: CONVO
+    url: 'https://conversation.wilder.wp.computer'
+    weight: 8
+  - name: ☮!
+    url: 'https://peacebang.wilder.wp.computer'
+    weight: 9
+
+
+
