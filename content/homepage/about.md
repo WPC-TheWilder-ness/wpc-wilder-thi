@@ -1,8 +1,8 @@
 ---
 title: The Human Imperative
 draft: false
-avatar: images/THIWILDER.png
-bio: 
+avatar: images/THIicon.png
+bio: The Human Imperative (THI, like "thigh") consists of a world piece computer's articles of organization, modified to suit the adopting operator. It also includes the Core Peace Bias and the Peace Lingua Franca, presented separately.
 
 weight: 1
 widget:
