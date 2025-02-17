@@ -1,98 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A WORLD PIECE</title>
-    <link>https://apx.wp.computer/</link>
-    <description>Recent content on A WORLD PIECE</description>
+    <title>𝜔×𝛼: ⦧𝘖‑𝘖$ ⌖☮ !THI</title>
+    <link>https://thi.wilder.wp.computer/</link>
+    <description>Recent content on 𝜔×𝛼: ⦧𝘖‑𝘖$ ⌖☮ !THI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://up.computer/&#34;&gt;The Universal Piece Computer&lt;/a&gt;, &lt;a href=&#34;https://wp.computer/&#34;&gt;World Piece Computer&lt;/a&gt; = &lt;a href=&#34;https://blairmunroakusa.wp.computer/&#34;&gt;Blair Munro&lt;/a&gt; ... &lt;a href=&#34;https://apx.wp.computer/astudyinpeace_htmlforindexing.html&#34; class=&#34;hover:text-eureka&#34;&gt;(a study in peace)&lt;/a&gt;
+    <copyright>&amp;copy &#43; &amp;trade; &#43; ☠️ : 1996-2025&#43;&#43; present-past-future:&lt;br&gt;Be warned. The wildest thing lurks, penned and starving.
 </copyright>
-    <lastBuildDate>Thu, 28 Jul 2022 08:21:07 -0800</lastBuildDate>
-    <atom:link href="https://apx.wp.computer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thi.wilder.wp.computer/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
+
+      <title>APEX PIECEBLOB</title>
+      <link>https://thi.wilder.wp.computer/docs/peaceblob/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thi.wilder.wp.computer/docs/peaceblob/</guid>
+      <description>Pieces relevant to core piece computer operations and participation live here.</description>
+    </item>
     <item>
-      <title>Who</title>
-      <link>https://apx.wp.computer/docs/documentation/6ws/who/</link>
-      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://apx.wp.computer/docs/documentation/6ws/who/</guid>
+      <title>Example Author</title>
+      <link>https://thi.wilder.wp.computer/authors/example-author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thi.wilder.wp.computer/authors/example-author/</guid>
+      <description>Self Introduction Cras ex dui, tristique a libero eget, consectetur semper ligula. Nunc augue arcu, malesuada a nisi et, molestie finibus metus. Sed lacus odio, ultricies a nisl vitae, sollicitudin tempor ipsum. Vivamus quis feugiat arcu. Sed mi nunc, efficitur quis tellus vitae, posuere mattis metus. Phasellus in mattis dui. Nullam blandit, augue non ullamcorper dapibus, lacus dui molestie massa, in iaculis purus lectus eu lectus. Duis hendrerit lacinia tellus, sit amet feugiat dolor placerat id.</description>
+    </item>
+    <item>
+      <title>Hugo Authors</title>
+      <link>https://thi.wilder.wp.computer/authors/hugo-authors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thi.wilder.wp.computer/authors/hugo-authors/</guid>
+      <description>Vestibulum vel arcu Donec interdum justo sed posuere imperdiet. Quisque nec mauris eu erat mattis egestas in vitae nisl. Sed nisl augue, congue sed quam quis, tempor tempus nibh. Pellentesque accumsan in quam a interdum. Morbi iaculis venenatis lacinia. Mauris quis nisl vitae nisi mollis placerat id vel ligula. Integer vitae arcu ac leo iaculis rhoncus id vitae dolor. Fusce quis nisl tincidunt, vulputate dolor quis, mollis massa. Donec congue velit at risus cursus, eu auctor dolor rhoncus.</description>
+    </item>
+    <item>
+      <title>PEACEBLOB</title>
+      <link>https://thi.wilder.wp.computer/docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thi.wilder.wp.computer/docs/</guid>
+      <description>A peace, V, is an anything, consisting of two aspects, P (property blob) and Q (quality blob), joined by an X transformation operator, which is in general the luminal conversation piece, c, that provides the necessary mediation transport to satisfy the universal piece (generalized peace process), X:c===(,), such that V(Q,P).&#xA;(tentative, exploration process) V&amp;rsquo;s complement, ~V(Q,P) represents said peace&amp;rsquo;s relative motion transform, T(P,Q). Peaces are mediated by action minimization in generalized terms. Fundamental energetics are determined by L(P,Q)=T-V, and H(Q,P)=V+T .</description>
+    </item>
+    <item>
+      <title>Posts</title>
+      <link>https://thi.wilder.wp.computer/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thi.wilder.wp.computer/posts/</guid>
       <description></description>
     </item>
     <item>
-      <title>Why</title>
-      <link>https://apx.wp.computer/docs/documentation/6ws/why/</link>
-      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://apx.wp.computer/docs/documentation/6ws/why/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>How</title>
-      <link>https://apx.wp.computer/docs/documentation/6ws/how/</link>
-      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://apx.wp.computer/docs/documentation/6ws/how/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>What</title>
-      <link>https://apx.wp.computer/docs/documentation/6ws/what/</link>
-      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://apx.wp.computer/docs/documentation/6ws/what/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Where</title>
-      <link>https://apx.wp.computer/docs/documentation/6ws/where/</link>
-      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://apx.wp.computer/docs/documentation/6ws/where/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>When</title>
-      <link>https://apx.wp.computer/docs/documentation/6ws/when/</link>
-      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://apx.wp.computer/docs/documentation/6ws/when/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>6 Ws, When</title>
-      <link>https://apx.wp.computer/posts/when6ws/</link>
-      <pubDate>Thu, 28 Jul 2022 08:21:07 -0800</pubDate>
-      <guid>https://apx.wp.computer/posts/when6ws/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>6 Ws, Where</title>
-      <link>https://apx.wp.computer/posts/where6ws/</link>
-      <pubDate>Thu, 28 Jul 2022 08:21:04 -0800</pubDate>
-      <guid>https://apx.wp.computer/posts/where6ws/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>6 Ws, What</title>
-      <link>https://apx.wp.computer/posts/what6ws/</link>
-      <pubDate>Thu, 28 Jul 2022 08:20:56 -0800</pubDate>
-      <guid>https://apx.wp.computer/posts/what6ws/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>6 Ws, How</title>
-      <link>https://apx.wp.computer/posts/how6ws/</link>
-      <pubDate>Thu, 28 Jul 2022 08:20:52 -0800</pubDate>
-      <guid>https://apx.wp.computer/posts/how6ws/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>6 Ws, Why</title>
-      <link>https://apx.wp.computer/posts/why6ws/</link>
-      <pubDate>Thu, 28 Jul 2022 08:20:49 -0800</pubDate>
-      <guid>https://apx.wp.computer/posts/why6ws/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>6 Ws, Who</title>
-      <link>https://apx.wp.computer/posts/who6ws/</link>
-      <pubDate>Thu, 28 Jul 2022 08:20:43 -0800</pubDate>
-      <guid>https://apx.wp.computer/posts/who6ws/</guid>
-      <description></description>
+      <title>Title</title>
+      <link>https://thi.wilder.wp.computer/docs/peaceblob/pieceblob/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thi.wilder.wp.computer/docs/peaceblob/pieceblob/</guid>
+      <description>[text here]</description>
     </item>
   </channel>
 </rss>
