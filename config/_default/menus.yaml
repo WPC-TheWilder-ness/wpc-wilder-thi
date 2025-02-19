@@ -1,22 +1,26 @@
 main:
-  - name: '⦧𝘖‑𝘖$'
+  - name: 'HOME'
     url: 'https://apx.wilder.wp.computer'
     weight: 1
-  - name: '!WAR'
-    url: 'https://warbang.wilder.wp.computer'
+  - name: 'TMFP'
+    url: 'https://tmfp.wilder.wp.computer'
     weight: 2
-  - name: '!TMFP'
-    url: 'https://tmfpbang.wilder.wp.computer'
+  - name: 'THI'
+    url: 'https://thi.wilder.wp.computer'
     weight: 3
-  - name: '!THI'
-    url: 'https://thibang.wilder.wp.computer'
+  - name: 'GPD'
+    url: 'https://gpd.wilder.wp.computer'
     weight: 4
-  - name: '!GPD'
-    url: 'https://gpdbang.wilder.wp.computer'
+  - name: 'CONVO'
+    url: 'https://convo.wilder.wp.computer'
     weight: 5
-  - name: '!SENSE'
-    url: 'https://sensebang.wilder.wp.computer'
+  - name: '⌖☮'
+    url: 'https://go.wilder.wp.computer'
     weight: 6
-  - name: '!⌖☮ ▮'
-    url: 'https://peacebang.wilder.wp.computer'
+  - name: '𝜔×𝛼'
+    url: 'https://wxa.wilder.wp.computer'
     weight: 7
+  - name: 'BUILD'
+    url: 'https://build.wilder.wp.computer'
+    weight: 8
+
